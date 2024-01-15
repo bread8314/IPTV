@@ -486,6 +486,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="超清频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 
 #EXTINF:-1 tvg-id="Bestv导视" tvg-name="Bestv导视" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv导视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
