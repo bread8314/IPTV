@@ -199,16 +199,28 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="环球纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="卫视频道",CGTN纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「上海」东方影视 
+#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」南京信息 
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」南京新闻综合 
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",优漫卡通
+http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方台·IPV6",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方台·IPV6",上海东方影视
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「上海」都市 
-http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001015/index.m3u8?love=freedom
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「上海」教育电视台 
-http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001268/index.m3u8?love=freedom
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「上海」外语频道 
-http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001128/index.m3u8?love=freedom
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「上海」新闻综合 
-http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001014/index.m3u8?love=freedom
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方台·IPV6",上海新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方台·IPV6",上海都市
@@ -233,10 +245,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="浙江风尚音乐" tvg-name="浙江风尚音乐" tvg-logo="https://epg.112114.eu.org/logo/浙江风尚音乐.png" group-title="地方台·IPV6",风尚音乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」南京信息 
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」南京新闻综合 
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」南通3 
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
 #EXTINF:-1 logo="" group-title="地方台·IPV6" ,「江苏」盐城2 
