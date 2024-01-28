@@ -207,7 +207,31 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ot
 http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方台·IPV6",南京十八
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="F01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="地方台·IPV6",上海新闻综合
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
+#EXTINF:-1 tvg-id="F02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="地方台·IPV6",上海都市
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
+#EXTINF:-1 tvg-id="F04" tvg-name="上海外语" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="地方台·IPV6",上海外语
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 
+#EXTINF:-1 tvg-id="G01" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang1.png" group-title="地方台·IPV6",浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="G02" tvg-name="浙江经济生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang2.png" group-title="地方台·IPV6",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="G03" tvg-name="浙江科教影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang3.png" group-title="地方台·IPV6",浙江科教影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="G04" tvg-name="浙江民生休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang4.png" group-title="地方台·IPV6",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="G05" tvg-name="浙江公共新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang5.png" group-title="地方台·IPV6",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="G06" tvg-name="浙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang6.png" group-title="地方台·IPV6",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="G07" tvg-name="浙江国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png" group-title="地方台·IPV6",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="H05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="地方台·IPV6",纪实科教
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+#EXTINF:-1 tvg-id="H08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方台·IPV6",卡酷少儿
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
 #EXTINF:-1,tvg-id="浙江精彩影视" tvg-name="浙江精彩影视" tvg-logo="https://epg.112114.eu.org/logo/浙江精彩影视.png" group-title="地方台·IPV6",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="浙江风尚音乐" tvg-name="浙江风尚音乐" tvg-logo="https://epg.112114.eu.org/logo/浙江风尚音乐.png" group-title="地方台·IPV6",风尚音乐
@@ -376,14 +400,10 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
 #EXTINF:-1 logo="" group-title="地方台·IPV6" ,「陕西」吴起电视台 
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「陕西」洋县电视台1 
-http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
 #EXTINF:-1 logo="" group-title="地方台·IPV6" ,「陕西」紫阳综合 
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 #EXTINF:-1 logo="" group-title="地方台·IPV6" ,「陕西」FGTV 1 
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
-#EXTINF:-1 logo="" group-title="地方台·IPV6" ,「陕西」佛坪电视台 
-http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其它频道",CETV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -541,22 +561,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="苏州4K" group-title="超清频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
-#EXTINF:-1 tvg-id="Bestv导视" tvg-name="Bestv导视" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv导视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事1" tvg-name="Bestv赛事1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事2" tvg-name="Bestv赛事2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事3" tvg-name="Bestv赛事3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事4" tvg-name="Bestv赛事4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事5" tvg-name="Bestv赛事5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事5
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事6" tvg-name="Bestv赛事6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事6
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事7" tvg-name="Bestv赛事7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="Bestv·赛事",Bestv赛事7
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
 #EXTINF:-1 logo="" group-title="IPV6·数字" ,第一财经
 http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001017/index.m3u8?love=freedom
 #EXTINF:-1 logo="" group-title="IPV6·数字" ,金鹰纪实
