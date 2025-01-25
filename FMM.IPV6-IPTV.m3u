@@ -27,7 +27,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/o
 #EXTINF:-1 logo="4K修复" tvg-logo="https://live.fanmingming.cn/tv/4K修复.png" group-title="超清频道" ,4K 修复 
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-id="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="超清频道", 爱上4K
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="超清频道",SiTV-欢笑剧场-4K
 http://192.168.68.151:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="超清频道",咪咕4K-1
